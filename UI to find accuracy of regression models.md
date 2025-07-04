@@ -6,3 +6,6 @@
 
       Choose regression models to be trained and tested and the tool gives the best performing model
 <img width="494" alt="image" src="https://github.com/user-attachments/assets/2bfd7ec4-eaba-43b7-a225-1f63a74f109a" />
+
+Related python code to get the UI is at 
+https://github.com/usha-sandeep/ML-with-Python/blob/main/Regression%20models%20accuracy_checker%20UI_Steamlit.py
